@@ -37,32 +37,13 @@ body{
 }
 
 
-
-
-
-.blogs{
-    width:95%;
-    color:#fff;
-    position: absolute;
-    top: 20%;
-    left: 50%;
-    transform:translate(-50%,-50%);
-   
- font-size: 20px;
- padding: 15px;
- text-align: justify;
-
-
-}
-h3{
-    text-align: center;
-    font-size: 30px;
-    padding: 20px;
-    color: #fff;
-}
-
-h4{
-    text-align: left;
-    padding:20px;
-    
+.blog{
+   width:90%;
+   color:#fff;
+   position: absolute;
+   top: 35%;
+   left: 50%;
+   transform:translate(-50%,-50%);
+   text-align: center;
+font-size: 35px;
 }
